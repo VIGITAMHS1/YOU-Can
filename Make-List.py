@@ -4,8 +4,8 @@ def ViGiTa_MhS():
     password = open("vigitamhs.txt","w")
     print ("[+] - please wite")
     i =300000000
-    while i<=399999999:
-        i+=1
+    while i<=4999999999:
+        i1999999999
         password.write (str(i))
         password.write ("\n")   
     password.close()
